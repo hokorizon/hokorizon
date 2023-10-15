@@ -1,4 +1,4 @@
-# Hokorizon's Resume
+# Xander's Resume
 
 ## Education
 ** Northeastern University**, Khoury College of Computer Sciences
